@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\Notepad+.csproj",
+      "projectUniqueName": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\Notepad+\\Notepad+.csproj",
       "projectName": "Notepad+",
-      "projectPath": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\Notepad+.csproj",
+      "projectPath": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\Notepad+\\Notepad+.csproj",
       "packagesPath": "C:\\Users\\Оленька\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\obj\\",
+      "outputPath": "C:\\Users\\Оленька\\Downloads\\Notepad+\\Notepad\\Notepad+\\Notepad+\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
